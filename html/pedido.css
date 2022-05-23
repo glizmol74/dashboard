@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#general{
+  overflow:auto;
+  width: 99vw;
+  height: 92vh;
+  margin: 0.5em auto;
+}
+
+#pedido{
+  overflow:auto;
+  float: right;
+  width: 98%;
+  height: 35%;
+  margin: 0.5em auto;
+  padding: 1;
+}
+
+#articulos{
+  overflow:auto;
+  float: right;
+  width: 98%;
+  height: 45%;
+  background: #D3D3D3;
+  margin: 0.5em auto;
+}
+
+#contenido2{
+  overflow:auto;
+  float: right;
+  width: 98%;
+
+  margin: 0.5em auto;
+}
